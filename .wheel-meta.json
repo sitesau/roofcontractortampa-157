@@ -1,0 +1,22 @@
+{
+  "wheel_id": 822,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-157",
+  "project": "roof-repair-tampa-materials-compared-9717ce3d0dfb86a0d6767b41e0",
+  "parent_t1_ref": "roofcontractortampa-012",
+  "node_role": "buffer",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa materials compared",
+  "intended_url": "https://aumedia.neocities.org/roof-repair-tampa-materials-compared-9717ce3d0dfb86a0d6767b41e0/",
+  "tier": "T2",
+  "writeback_nonce": "f9dd44b0ad95954e",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roof-repair-tampa-roofcontractortampa-012/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
